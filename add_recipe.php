@@ -1,10 +1,6 @@
 <?php 
 include 'ctrl/AppointmentCtrl.php';
-<<<<<<< HEAD
-//from master
-=======
-//from junior
->>>>>>> junior
+//is in second branch
 ?>
 
 <html>
