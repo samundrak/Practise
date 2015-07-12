@@ -1,6 +1,6 @@
 <?php 
 include 'ctrl/AppointmentCtrl.php';
-//fugly code 
+//from junior
 ?>
 
 <html>
