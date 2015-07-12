@@ -1,7 +1,12 @@
 <?php 
 include 'ctrl/AppointmentCtrl.php';
+<<<<<<< HEAD
 //from master
+=======
+//from junior
+>>>>>>> junior
 ?>
+
 <html>
 <head>
 	<title> Welcome to Gohealth-e </title>
