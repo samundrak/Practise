@@ -1,6 +1,8 @@
 <?php 
 include 'ctrl/AppointmentCtrl.php';
+//fugly code 
 ?>
+
 <html>
 <head>
 	<title> Welcome to Gohealth-e </title>
